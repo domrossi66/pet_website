@@ -1,6 +1,1 @@
-Milestone 6:
-1) Run database initialization code with "python main.py"
-2) Start the backend server with "docker run -d -p 5000:5000 team32
-
-Milestone 7:
-Run the frontend by navigating into the frontend folder and typing "npm run dev"
+Pet Adoption mock website from out software engineering class in spring 2025. Our group was composed of myself, [tobyrschwartz](https://github.com/tobyrschwartz), and [kwa21003](https://github.com/kwa21003). My contributions to the project were mainly on the frontend. 
